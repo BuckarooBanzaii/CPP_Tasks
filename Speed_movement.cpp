@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {a
-	// Параметры задачи
+	// РџР°СЂР°РјРµС‚СЂС‹ Р·Р°РґР°С‡Рё
 	double S1, S2, t1, t2, V;
-	// Ввод параметров
+	// Р’РІРѕРґ РїР°СЂР°РјРµС‚СЂРѕРІ
 	cout << "Enter S1 = ";
 	cin >> S1;
 	cout << "Enter S2 = ";
