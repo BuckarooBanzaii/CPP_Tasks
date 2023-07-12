@@ -2,15 +2,15 @@
 
 using namespace std;
 int main() {
-	// Число, показатель степени и результат
+	// Number, extent , result
 	int number, n, result;
-	// Ввод пользователем числа
+	// User input number
 	cout << "Enter number = ";
 	cin >> number;
-	// Ввод показателя степени
+	// User input extent
 	cout << "Enter n = ";
 	cin >> n;
-	// Результат умножения
+	// The result of multiplication
 	result = number << n;
 	cout << "result = " << result << endl;
 	return 0;
